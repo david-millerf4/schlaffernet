@@ -1,6 +1,6 @@
-# Gatsby + Netlify CMS Starter
+# schlaffernet portfolio blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d01ebe3-ca62-45ea-b39d-debad731f019/deploy-status)](https://app.netlify.com/sites/splendid-mooncake-673def/deploys)
 
 **Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
 
