@@ -1,7 +1,7 @@
 import * as React from "react";
-import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
+import Seo from "../components/seo";
 
 const TagRoute = (props) =>  {
 
@@ -16,7 +16,6 @@ const TagRoute = (props) =>  {
     ));
 
     const { tag } = props.pageContext;
-    const { title } = props.data.site.siteMetadata;
     const { totalCount } = props.data.allMarkdownRemark;
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? "" : "s"
@@ -25,7 +24,6 @@ const TagRoute = (props) =>  {
     return (
       <Layout>
         <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
           <div className="container content">
             <div className="columns">
               <div
@@ -46,6 +44,10 @@ const TagRoute = (props) =>  {
 }
 
 export default TagRoute;
+
+
+
+export const Head = () => <Seo title="Tags" />
 
 export const tagPageQuery = graphql`
   query TagPage($tag: String) {

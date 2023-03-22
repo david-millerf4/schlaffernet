@@ -1,6 +1,7 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
+import Seo from "../../components/seo"
 
 function encode(data) {
   return Object.keys(data)
@@ -113,3 +114,5 @@ export default class Index extends React.Component {
     );
   }
 }
+
+export const Head = () => <Seo title="Contact" />

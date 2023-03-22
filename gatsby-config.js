@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Schlaffer.net",
     author: {
       name: `David Miller`,
       summary: `world-wide post development blog maintainer`,

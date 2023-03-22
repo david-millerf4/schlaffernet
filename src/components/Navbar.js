@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
 import logo from "../img/logo.svg";
 
 const Navbar = () => {
@@ -58,18 +57,6 @@ const Navbar = () => {
               Form Examples
             </Link>
             </li>
-          <li className="navbar-end has-text-centered">
-            <a
-              className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <span className="icon">
-                <img src={github} alt="Github" />
-              </span>
-            </a>
-          </li>
         </ul>
       </div>
     </nav>

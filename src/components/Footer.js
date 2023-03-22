@@ -40,6 +40,16 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
+                      <Link className="navbar-item" to="/impressum">
+                        Impressum
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/datenschutz">
+                        Datenschutz
+                      </Link>
+                    </li>
+                    <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>

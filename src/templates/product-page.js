@@ -8,6 +8,7 @@ import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
+import Seo from "../components/seo"
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -149,6 +150,8 @@ ProductPage.propTypes = {
 };
 
 export default ProductPage;
+
+export const Head = () => <Seo title="Products" />
 
 export const productPageQuery = graphql`
   query ProductPage($id: String!) {

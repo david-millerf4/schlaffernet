@@ -1,10 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
-import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import Seo from "../components/seo"
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({
@@ -13,13 +13,11 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  helmet,
 }) => {
   const PostContent = contentComponent || Content;
 
   return (
     <section className="section">
-      {helmet || ""}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -52,7 +50,6 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object,
 };
 
 const BlogPost = ({ data }) => {
@@ -64,15 +61,6 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
@@ -87,6 +75,15 @@ BlogPost.propTypes = {
 };
 
 export default BlogPost;
+
+export const Head = ({ data: { markdownRemark: post } }) => {
+    return (
+      <Seo
+        title={post.frontmatter.title}
+        description={post.frontmatter.description || post.excerpt}
+      />
+    )
+  }
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {

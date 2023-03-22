@@ -7,6 +7,7 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
+import Seo from "../components/seo"
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -113,6 +114,8 @@ IndexPage.propTypes = {
 };
 
 export default IndexPage;
+
+export const Head = () => <Seo title="Home" />
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
