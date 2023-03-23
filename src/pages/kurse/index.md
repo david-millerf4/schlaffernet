@@ -28,11 +28,7 @@ featuredimage: /img/flavor_wheel.jpg
 "Gutschein" 
 Infos: kschlaffer@web.de
 
-
-
 # Kursangebot Winter/Frühjahrssemester 2023 Atelier 21:
-
-
 
 ## Kurse von Karina Schlaffer: 
 (mehr Infos:  [Presse](http://www.schlaffer.net/muenchen-presse.php "Presse Karina Schlaffer"))
@@ -46,17 +42,12 @@ Es tut mir sehr leid, für alle meine Schüler, die gerne zu mir in den Kurs gek
 Nun biete ich Kurse in meinem Atelier 21 an. 
 Jeder ist herzlich willkommen.
 
-
-
 ## Für Winter/Frühjahr 2023 sind folgende Kurse im Atelier21 geplant:
 
 
 Figürliches Zeichnen, fortlaufender Kurs, jeden Mittwoch 
 Mittwoch von 18.00 bis 19.30 Uhr 
 Ort: Edeltraudstr. 21
-
-
-
 
 
 ## März 2023
@@ -105,11 +96,6 @@ z.B. Grusskarten, Einladungskarten, Logos u.v.m.
 verschönern kann. Es kommen auch vermehrt 
 grafische Elemente zum Einsatz.
 “Es ist die Kunst des Buchstaben-Zeichnens”
-
-
-
-
-
 
 
 ...oder andere Kurse nach Vereinbarung in der Edeltraudstr. 21 ab 2 Teilnehmern:

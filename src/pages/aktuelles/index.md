@@ -62,9 +62,6 @@ Mensch und Tier. Die Natur. Weiblichkeit. Schönheit. Gegensätze. Erhaltung der
 Sonnenschein, Freiheit und eine Blume gehören auch dazu"
 
 
-
-
-
 ![karina Schlaffer](./SpuraufderHautkl.jpg "Karina Schlaffer")
 
 *"Spur auf der Haut (Drachentatoo)"  Gouache/Pastellkreide auf Leinwand (80 x 80)*
@@ -96,8 +93,6 @@ Wir sind in München und Umgebung unterwegs.
 * Karina Schlaffer (in ihrem Atelier in München-Trudering) *
 
 
-
-
 ## Private Kunst- und Zeichenschule in München-Trudering.
  
 
@@ -108,12 +103,7 @@ Wir sind in München und Umgebung unterwegs.
 "Gutschein" 
 Infos: kschlaffer@web.de
 
-
-
 # Kursangebot Winter/Frühjahrssemester 2023 Atelier 21:
-
-
-
 
 ## Kurse von Karina Schlaffer: 
 (mehr Infos:  [Presse](http://www.schlaffer.net/muenchen-presse.php "Presse Karina Schlaffer"))

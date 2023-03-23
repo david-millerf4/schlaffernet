@@ -6,13 +6,11 @@ featuredimage: /img/flavor_wheel.jpg
 ---
 ## Kontakt
 
-Karina Schlaffer<br />
-Edeltraudstr. 21<br />
-81827 München<br />
-Tel.: 089-92582309<br />
-Mail: kschlaffer@web.de<br /><br />
-
-
+Karina Schlaffer
+Edeltraudstr. 21
+81827 München
+Tel.: 089-92582309
+Mail: kschlaffer@web.de
 
 
 ## Haftungsausschluss, Rechtlicher Hinweis
@@ -130,8 +128,8 @@ entgegengebracht werden, werden wir diese vollumfänglich zurückweisen und gege
 Verletzung vorgenannter Bestimmungen einreichen.
 </div>
 
-<br />
-<br />
+
+
 <a href="http://www.dmegs.com">web directory</a>
 
 

@@ -23,7 +23,7 @@ Karina Schlaffer ist 1964 in Regensburg geboren und lebt seit 2001 in München
 * 1987-1992:         Studium an der FHS-Gestaltung Würzburg
 * 1992:             Abschluss als Dipl. Grafik-Designerin (Schwerpunkt: Illustration Dr. Sarafov/München) 
 
-<br />
+
 Seit 1992 freiberuflich in Regensburg und München tätig als: Grafik-Designerin, Künstlerin, Illustratorin, Comikzeichnerin, Malerin 
 
 freie Lehrtätigkeit in künstlerischen Bereichen: 

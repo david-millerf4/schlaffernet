@@ -57,9 +57,8 @@ Suchen Sie noch ein Geschenk für Geburtstag, Hochzeit oder Jubiläum?
 
 # Sie können gerne einen Gutschein für Einzelunterricht verschenken.
 
-
-    
 # Kunstprojekt Video [Atem ist Leben-Portrait (Musik)](https://www.youtube.com/watch?v=Rrac-Q8iooo) 
+
 ![karina Schlaffer](./Atem2kl.jpg "Karina Schlaffer")
 
 *Alles in Unordnung....! Atem ist Leben! 
