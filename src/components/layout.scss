@@ -1,0 +1,47 @@
+//Here you can customize bootstrap
+$primary: #663399;
+
+$menuborder: #630204;
+
+.jumbotronic {
+    border: 1 px solid peru;
+}
+
+.menu {
+//     background: rgba(0, 0, 0, 0.4);
+//     opacity: 0.9;
+//     padding: 0;
+        position: relative;
+        bottom: 40px;
+ }
+
+nav.menubar-nav {
+    // background: rgba(0, 0, 0, 0.4);
+    // opacity: 0.9;
+    padding: 0;
+}
+
+div.navbar-nav a {
+    color: #fff;
+}
+
+.menubar-container {
+    background: rgba(0, 0, 0, 0.4);
+    opacity: 0.9;
+    padding: 0;
+}
+
+// .navbar {
+//     height: 467px;
+// }
+
+.logo {
+    height: 48px;
+    max-width: 444px;
+}
+
+.navbar-brand{
+    color: #fff;
+}
+
+@import "~bootstrap/scss/bootstrap";

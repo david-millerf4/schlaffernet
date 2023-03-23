@@ -63,7 +63,7 @@ const Seo = ({ description, title, children }) => {
             <meta name="twitter:url" content={site.siteMetadata?.social?.twitterUrl || ``} />
             <meta name="twitter:site" content={seo.twitterUrl} />
             <meta name="twitter:image:alt" content="Experience7 logo" />
-            <link rel="icon" href="./img/logogk-1-ico.png" />
+            <link rel="icon" href="./img/fav.ico" />
             {children}
         </>
     )
